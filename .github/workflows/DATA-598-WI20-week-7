@@ -42,7 +42,7 @@
   
   
 
-  <meta name="request-id" content="F428:65CF:1467FCB:1AA92C3:5E5DCC2E" data-pjax-transient="true"/><meta name="html-safe-nonce" content="fa9eabb2b92ff94cdb1173b974ae9b3d4fc738f9" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJGNDI4OjY1Q0Y6MTQ2N0ZDQjoxQUE5MkMzOjVFNURDQzJFIiwidmlzaXRvcl9pZCI6IjE2MTI5MDY5ODg4NTM2NDQzMzQiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJzZWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="ca1b14e387ef30be9f67ed7407753eda51a9afbe423d82027feaeeda38e092d7" data-pjax-transient="true"/>
+  <meta name="request-id" content="F472:8E32:14D276C:1B29026:5E5DCCCD" data-pjax-transient="true"/><meta name="html-safe-nonce" content="9aa460cea6dadc4f4bb82eb603f5593d53cb0257" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJGNDcyOjhFMzI6MTREMjc2QzoxQjI5MDI2OjVFNURDQ0NEIiwidmlzaXRvcl9pZCI6IjEyMTQ3OTExMTEzODQzNTM5OTciLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJzZWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="c2bdc2f664f5daae8d95b4b5d086cfbf551cc2530e449ede15dd6169713dce8a" data-pjax-transient="true"/>
 
 
 
@@ -260,7 +260,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="M4FG7AinSmdGoAiT1gNy6la1pYzLNXhtv5UTg4aL8cSf0rFFBWB6mwaz+kG2Sg5yT+WbJOj6RIiqIHTdjZfCpw==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="hVLKYfAMdIMX0q5xaAgozdxusBcxJn+0mq73YEJX035TIXaQDcWflriUfMVupUq1oiS4IPuWT5tA2Yl8RzTUwQ==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -589,7 +589,7 @@
       <a data-pjax href="/faryalusman/DATA-598-WI20-week-7/commits/master">
           <svg class="octicon octicon-history" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 13H6V6h5v2H8v5zM7 1C4.81 1 2.87 2.02 1.59 3.59L0 2v4h4L2.5 4.5C3.55 3.17 5.17 2.3 7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 011.3 8c0-.34.03-.67.09-1H.08C.03 7.33 0 7.66 0 8c0 3.86 3.14 7 7 7s7-3.14 7-7-3.14-7-7-7z"/></svg>
           <span class="num text-emphasized">
-            10
+            11
           </span>
           commits
       </a>
@@ -814,18 +814,18 @@
   
 
 
-        <a data-pjax="true" title="Adding CI" class="message text-inherit" href="/faryalusman/DATA-598-WI20-week-7/commit/e051d63825cc9a501856c87b57304e40367518cd">Adding CI</a>
+        <a data-pjax="true" title="Potential badge fix" class="message text-inherit" href="/faryalusman/DATA-598-WI20-week-7/commit/81f21c818e17e9e3defc1cd1acc17b3c3d427f8d">Potential badge fix</a>
 
     </div>
     <div class="no-wrap d-flex flex-self-start flex-items-baseline">
         <span class="mr-2 flex-self-center">
-          <include-fragment accept="text/fragment+html" src="/faryalusman/DATA-598-WI20-week-7/commit/e051d63825cc9a501856c87b57304e40367518cd/rollup" class="d-inline"></include-fragment>
+          <include-fragment accept="text/fragment+html" src="/faryalusman/DATA-598-WI20-week-7/commit/81f21c818e17e9e3defc1cd1acc17b3c3d427f8d/rollup" class="d-inline"></include-fragment>
         </span>
       <span class="mr-1">Latest commit</span>
-      <a class="commit-tease-sha mr-1" href="/faryalusman/DATA-598-WI20-week-7/commit/e051d63825cc9a501856c87b57304e40367518cd" data-pjax>
-        e051d63
+      <a class="commit-tease-sha mr-1" href="/faryalusman/DATA-598-WI20-week-7/commit/81f21c818e17e9e3defc1cd1acc17b3c3d427f8d" data-pjax>
+        81f21c8
       </a>
-      <span itemprop="dateModified"><relative-time datetime="2020-03-03T02:03:36Z" class="no-wrap">Mar 2, 2020</relative-time></span>
+      <span itemprop="dateModified"><relative-time datetime="2020-03-03T03:18:15Z" class="no-wrap">Mar 2, 2020</relative-time></span>
     </div>
     </div>
   </div>
@@ -833,7 +833,7 @@
   
 
 <include-fragment src="/faryalusman/DATA-598-WI20-week-7/file-list/master">
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/faryalusman/DATA-598-WI20-week-7/tree/e051d63825cc9a501856c87b57304e40367518cd">Permalink</a>
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/faryalusman/DATA-598-WI20-week-7/tree/81f21c818e17e9e3defc1cd1acc17b3c3d427f8d">Permalink</a>
 
   <table class="files js-navigation-container js-active-navigation-container" data-pjax>
     <thead>
@@ -858,7 +858,7 @@
             <img width="16" height="16" class="spinner" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" />
           </td>
           <td class="content">
-            <span class="css-truncate css-truncate-target"><a class="js-navigation-open" title="This path skips through empty directories" id="9bb4857850b7d39fc2f96f611a468cb2-f46466fc533c108bb4cc474963f23860132d731c" href="/faryalusman/DATA-598-WI20-week-7/tree/master/.github/workflows"><span class="simplified-path">.github/</span>workflows</a></span>
+            <span class="css-truncate css-truncate-target"><a class="js-navigation-open" title="This path skips through empty directories" id="9bb4857850b7d39fc2f96f611a468cb2-4da526283853903da55cf642a19c31c6c95f34d1" href="/faryalusman/DATA-598-WI20-week-7/tree/master/.github/workflows"><span class="simplified-path">.github/</span>workflows</a></span>
           </td>
           <td class="message">
             <span class="css-truncate css-truncate-target">
@@ -922,7 +922,7 @@
             <img width="16" height="16" class="spinner" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" />
           </td>
           <td class="content">
-            <span class="css-truncate css-truncate-target"><a class="js-navigation-open" title=".Rbuildignore" id="bc92b187c74649b3e0a039784ff93b39-ad273750e6bb2411d78018bffd3d050c92d0ac17" href="/faryalusman/DATA-598-WI20-week-7/blob/master/.Rbuildignore">.Rbuildignore</a></span>
+            <span class="css-truncate css-truncate-target"><a class="js-navigation-open" title=".Rbuildignore" id="bc92b187c74649b3e0a039784ff93b39-9fd95037c2c67f5ffafb54620c2803af7251c403" href="/faryalusman/DATA-598-WI20-week-7/blob/master/.Rbuildignore">.Rbuildignore</a></span>
           </td>
           <td class="message">
             <span class="css-truncate css-truncate-target">
