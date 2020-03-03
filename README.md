@@ -17,7 +17,7 @@ You can install this package from the [github repository](https://github.com/far
 ``` r
 install.packages("devtools")
 library(devtools)
-install_github(faryalusman/DATA-598-WI20-week-7)
+install_github('faryalusman/DATA-598-WI20-week-7')
 ```
 
 ## Example
