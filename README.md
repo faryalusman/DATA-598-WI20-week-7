@@ -2,7 +2,7 @@
 # SimplePackage
 
 <!-- badges: start -->
-[![R build status](https://github.com/benmarwick/tests/workflows/R-CMD-check/badge.svg)]https://github.com/faryalusman/DATA-598-WI20-week-7
+[![R build status](https://github.com/faryalusman/DATA-598-WI20-week-7/workflows/R-CMD-check/badge.svg)
 
 <!-- badges: end -->
 
