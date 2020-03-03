@@ -6,8 +6,8 @@
 
 The goal of SimplePackage is to perform simple polynomial calculations typically taught in elementary school. It performs the following calculations:
   
-  1. $$ (a  +  b) * (a  -  b)$$
-  2. $$ (a  +  b) *  (a  -  b)$$
+  1. (a  +  b) x (a  -  b)
+  2. (a  +  b) x (a  -  b)
   
 
 ## Installation
