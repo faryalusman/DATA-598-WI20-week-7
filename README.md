@@ -42,5 +42,5 @@ calculation_1(a = 10, b = 5) # For the first example.
 calculation_2(a = 10, b = 5) # For the second example. 
 ```
 
-## Code of Conduct
+## Contributing
 Please make conscientious use of this package. Fore more information refer to the [Code of Conduct](CODE_OF_CONDUCT.md)
